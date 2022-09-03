@@ -1,8 +1,8 @@
-_**Note:** Recommendations are based on personal experience registering custom motorcycles in the state of California, and is not intended as legal advice. Please verify this information with the Department of Motor Vehicles in your state._
+_**Note:** Recommendations are based on personal experience registering custom motorcycles in the state of California, and is not intended as legal advice. Please verify this information with the Department of Motor Vehicles (DMV) or equivalent in your location.
 
 One of the most common questions in the world of custom bike building is “how do I title and register my new bike?” Here in California most custom built vehicles fall into the category of Specially Constructed Vehicles (SPCNs). The most important aspect is to save your receipts for the purchase of all major components that have gone into the construction. Of course starting with a titled donor bike makes the process a little easier as the existing title covers legal ownership for most of the major components. You will just need to show receipts for raw material that went into construction of the FOSMC frame.
 
-The Department of Motor Vehicles (DMV) will want to review the receipts for the purpose of assessing a tax value to the vehicle. You will likely be required to have the new motorcycle inspected by California (or your state’s equivalent) Highway Patrol (CHP). The CHP will also review your receipts with the intent of verifying that the vehicle was constructed with parts not taken from stolen vehicles.
+The DMV will want to review the receipts for the purpose of assessing a tax value to the vehicle. You will likely be required to have the new motorcycle inspected by California (or your state’s equivalent) Highway Patrol (CHP). The CHP will also review your receipts with the intent of verifying that the vehicle was constructed with parts not taken from stolen vehicles.
 
 Often a brake and light inspection is also required. This inspection is performed by a licensed repair shop authorized to make sure all lights, horn, and other equipment required for legal street use are in operational condition.   
 

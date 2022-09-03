@@ -34,6 +34,9 @@ Sanding tools are required for final trimming and de-burring of tubing.
 
 + 1-½” x 6” CLR x 90 degree die set
 
+- Tube Bender: http://www.eastwood.com/high-capacity-tubing-bender.html
+
+
 ### Tube Drilling Tools
 
 <img src="https://user-images.githubusercontent.com/2992937/29436952-e81565aa-8362-11e7-88f8-d0b9ffd27e38.JPG" alt="Drill Press" width="600" align="center">

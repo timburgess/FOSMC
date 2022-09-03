@@ -1,6 +1,6 @@
 # Donor Bike Requirements and Suggestions
 
-For the first two FOSMC motorcycles, we have chosen to use early Monsters (620 ie and M900) as the donor bikes.    Monsters have been Ducati's best selling model for many years, thus there is a healthy used bike market with older Monster models being relatively inexpensive and readily available.  However, other Ducati models should work equally well.
+For the first two FOSMC motorcycles, we chose to use early Monsters (620 ie and M900) as the donor bikes. Monsters have been Ducati's best selling model for many years, thus there is a healthy used bike market with older Monster models being relatively inexpensive and readily available. However, other Ducati models should work equally well.
 
 The FOSMC design does require two assemblies that are Monster specific: the first being the fuel tank, the other is the swingarm. Should you choose to use a Ducati model other than a Monster, you will need to acquire a Monster fuel tank and Monster swingarm in addition to your donor bike.
 
@@ -8,7 +8,7 @@ The CAD data base currently has provisions to accept mounting of component parts
 
 ## Here is a list of Ducati specific parts that will be used in construction of the FOSMC:
 
-+ Engine assembly including carburetor of fuel injection system
++ Engine assembly including carburetor or fuel injection system
 + Complete electrical system including all switches, instruments, and lights.
 + Complete oil cooling system (not used on some models)
 
@@ -26,7 +26,7 @@ The CAD data base currently has provisions to accept mounting of component parts
 + Wheel assembly
 + Brake assembly
 + Fender (optional) 
-+ Foot controls from a S2/4R or from first generation Multistrada / Hypermotard. 
++ Foot controls from a S2/4R or from a first generation Multistrada / Hypermotard.
 
 _**Note:** aluminum double sided Monster swingarms will not work without design changes to the shock mounts due to the wider width of the arms._
 

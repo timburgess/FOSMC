@@ -17,6 +17,9 @@ All design files for FOSMC can be found in the CAD folder of this directory and 
 
 Please reference the Bill of Materials (BOM) for exact details.
 
+# Assembly instructions
+Assembly instructions are available in the Assembly folder. This is a general overview rather than a step-by-step guide.
+
 # Tools needed
 
 ## Hand tools
@@ -28,11 +31,7 @@ Please reference the Bill of Materials (BOM) for exact details.
 - Drill press or hand drill
 - Hand riveter
 
-Optional:
-- Tube Bender: http://www.eastwood.com/high-capacity-tubing-bender.html
-
-# Assembly instructions
-Assembly instructions are available in the Assembly folder. This is a general overview rather than a step-by-step guide.
+See Assembly/2-Tools-and-Equipment for a complete list of tools needed.
 
 # Disclaimer
 While the motorcycle can be made street legal in California and is ridable, FOSMC is a prototype. Therefore, we must make the disclaimer that the ultimate safety of the bike is in your hands and you build, assemble, and ride FOSMC at your own risk.
